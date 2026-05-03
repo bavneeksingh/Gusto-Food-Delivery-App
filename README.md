@@ -1,8 +1,5 @@
 # Gusto - Food Delivery Application 🍔🏍️
 
-![Gusto Cover Image](path/to/your/cover_image.png)
-> *Placeholder: Attach a high-quality cover image or banner of the app here.*
-
 **Gusto** is a premium, feature-rich food delivery application built with **Flutter**, designed to bridge the gap between hungry customers and their favorite local restaurants. 
 
 Whether you're craving a quick snack or planning a feast, Gusto provides a beautifully crafted, intuitive, and seamless user experience from end to end. Discover new culinary delights with powerful search functionality, browse through rich restaurant menus with item customization, and manage your cart with ease. Once your order is placed, Gusto keeps you updated every step of the way with integrated Google Maps geolocation and instant push notifications. 
@@ -11,10 +8,14 @@ Backed by a robust **Supabase** infrastructure, Gusto ensures secure authenticat
 
 ---
 
+<div align="center">
+
 | Home - Categories | Home - Restaurants | Restaurant Menu | Cart & Checkout |
-|-------------------|-------------------|-----------------|-----------------|
-| ![Banner](assets/screenshots/banner.jpg) | ![Home](assets/screenshots/home.jpg) | ![Menu](assets/screenshots/menu.jpg) | ![Cart](assets/screenshots/cart.jpg) |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshots/banner.jpg" width="240" height="500"> | <img src="assets/screenshots/home.jpg" width="240" height="500"> | <img src="assets/screenshots/menu.jpg" width="240" height="500"> | <img src="assets/screenshots/cart.jpg" width="240" height="500"> |
 | *Special Offers & Categories* | *Nearby Restaurants List* | *Menu & Customization* | *Order Review & Instructions* |
+
+</div>
 
 ---
 
@@ -127,5 +128,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 **Bavneek Singh**
 - GitHub: [@bavneeksingh](https://github.com/bavneeksingh)
-
-> **Note to Developer:** Please replace all screenshot paths (e.g., `path/to/...`) with the actual image links once you upload them to your repository or image hosting service.
