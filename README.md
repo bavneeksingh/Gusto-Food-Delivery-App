@@ -10,10 +10,10 @@ Backed by a robust **Supabase** infrastructure, Gusto ensures secure authenticat
 
 <div align="center">
 
-| Home - Categories | Home - Restaurants | Restaurant Menu | Cart & Checkout |
+| Home - Restaurants | Home - Categories | Restaurant Menu | Cart & Checkout |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/banner.jpg" height="500"> | <img src="assets/screenshots/home.jpg" height="500"> | <img src="assets/screenshots/menu.jpg" height="500"> | <img src="assets/screenshots/cart.jpg" height="500"> |
-| *Special Offers & Categories* | *Nearby Restaurants List* | *Menu & Customization* | *Order Review & Instructions* |
+| <img src="assets/screenshots/home.jpeg" height="500"> | <img src="assets/screenshots/banner.jpeg" height="500"> | <img src="assets/screenshots/menu.jpeg" height="500"> | <img src="assets/screenshots/cart.jpeg" height="500"> |
+| *Nearby Restaurants List* | *Special Offers & Categories* | *Menu & Customization* | *Order Review & Instructions* |
 
 </div>
 
